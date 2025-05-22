@@ -22,7 +22,7 @@ A personal productivity web application that helps users manage daily tasks, not
 ### Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/myorg.git
+git clone https://github.com/Amitlad340/myorg.git
 cd myorg
 
 npm install
